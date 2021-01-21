@@ -1,27 +1,27 @@
 # PontoInteligente
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 11.1.0.
 
-## Development server
+## Servidor de Desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Execute `ng serve` para o servidor de desenvolvimento. Navegue para o `http://localhost:4200/`. O servidor da aplicação será novamente executado, sempre que houver alguma alteração no código fonte.
 
-## Code scaffolding
+## Comando para geração de componentes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Execute `ng build` para 'buildar' o projeto. Os artefatos serão armazenados no diretório `dist/`. Use o `--prod` para 'buildar' em produção.
 
-## Running unit tests
+## Executando testes unitários
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Execute `ng test` para rodar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Executando os testes end-to-end
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Execute `ng e2e` para rodar os testes end-to-end via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Mais ajuda
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obter mais ajuda no Angular CLI use `ng help` ou verifique o link: [Angular CLI Overview and Command Reference](https://angular.io/cli).
